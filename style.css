@@ -1,0 +1,9 @@
+h1 {
+  max-width: 50px;
+  width: 90%;
+  height: 10px;
+  background-color: aquamarine;
+  background-attachment: fixed;
+  color: aliceblue;
+  font-size: 10pt;
+}
